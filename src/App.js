@@ -23,7 +23,7 @@ const App = () => {
   return (
     <>
       {/* Modal */}
-      <IntroModal showModal={showModal} onToggle={toggleShowModal} />
+      {/* <IntroModal showModal={showModal} onToggle={toggleShowModal} /> */}
 
       {/* Dashboard Layout */}
 

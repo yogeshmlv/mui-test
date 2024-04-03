@@ -25,7 +25,7 @@ const Dashboard = () => {
       </Helmet>
 
       <Typography variant="h6" component="h2">
-        Hi, Welcome in MUI Dash.
+        Hi, Welcome in Yogesh Dev.
       </Typography>
 
       {/* Info Cards */}
