@@ -32,18 +32,15 @@ const IntroModal = ({ showModal, onToggle }) => {
         </Typography>
 
         <Typography paragraph>
-          Thanks for checking this site. This is a cloned dashboard from
-          Material-UI to practice MUI.
-        </Typography>
-        <Typography paragraph>
-          The main focus of this project was the UI. I know there are some bugs
-          in it. If you can suggest me any way, I'll appreciate it very much.
-        </Typography>
+    Thank you for visiting this website. It features a dashboard design inspired by Material-UI, which I've used as a platform for practicing and refining my UI development skills over the past two years.
+</Typography>
+<Typography paragraph>
+    While building this project, my primary focus was on delivering a polished user interface. However, I'm open to feedback and suggestions for improvement to further enhance my skills and craftsmanship.
+</Typography>
+<Typography paragraph>
+    Additionally, I'm currently seeking new opportunities to apply my two years of experience in UI development. If you have any job openings suitable for someone with my level of experience, I would be eager to explore them. 🙏
+</Typography>
 
-        <Typography paragraph>
-          PS: I'm looking for an entry level job. If you've any opportunity,
-          please knock me. 🙏
-        </Typography>
 
         {/* Buttons */}
         <Box
@@ -60,7 +57,7 @@ const IntroModal = ({ showModal, onToggle }) => {
             underline="none"
             variant="contained"
             disableElevation
-            href="https://github.com/TutulDevs/mui-practice"
+            href="https://github.com/yogeshmlv/mui-test"
             target="_blank"
             rel="noopener noreferrer"
           >
